@@ -463,9 +463,9 @@ cin >> cont;
     cout << "\t\t\t\t\t\t\t\t |             GRAYHAWKS RES. RECEIPT           |\n";
     cout << "\t\t\t\t\t\t\t\t ================================================\n\n\n";
     cout << "\t\t\t\t\t\t\t\t Bill No : CP5123            Order # : NB1323673\n\n";
-    cout << "\n\t\t\t\t\t\t\t\t Customer Name: Prof. Hector Tibo";
+    cout << "\n\t\t\t\t\t\t\t\t Customer Name: VAX JAMES VAX";
     cout << "\n\t\t\t\t\t\t\t\t Date and Time:\t" << dt;
-    cout << "\t\t\t\t\t\t\t\t Cashier :  BSEE GROUP 1";
+    cout << "\t\t\t\t\t\t\t\t Cashier :    VAXENITY";
     cout << "\n\t\t\t\t\t\t\t\t . . . . . . . . . . . . . . . . . . . . . . . .";
     if (dntk == "D")
     {
